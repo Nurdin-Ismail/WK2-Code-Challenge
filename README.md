@@ -6,7 +6,7 @@ For this challenge, you will be working on Flataculties, an app where you can vo
 The instructions below will walk you through the process of ideation and planning your app: deciding on your user interface, planning how the information will be laid out on the page, etc. You should work through all the planning steps before you start doing any coding.
 
  ## Overview
- ![My Image](<img/Screenshot from 2023-06-28 01-08-34.png)
+ ![My Image](img/Screenshot from 2023-06-28 01-08-34.png)
 
 ## Requirements
 For this project, you must:
