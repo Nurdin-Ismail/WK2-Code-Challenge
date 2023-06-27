@@ -1,0 +1,98 @@
+body{
+    padding: 0%;
+    margin: 0%;
+}
+
+main{
+    margin: 20px;
+    padding: 10px 20px 20px;
+    box-shadow: rgba(9, 30, 66, 0.25) 0px 1px 1px, rgba(9, 30, 66, 0.13) 0px 0px 1px 1px;
+
+}
+
+.kanu{
+    font-size: 18px;
+      margin: 15px;
+      padding: 5px 10px 10px;
+}
+
+.lolo{
+    justify-content: center;
+    padding-left: 300px;
+}
+
+.lolo p{
+    padding-left: 250px;
+}
+
+.bojo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 200px;
+    color: rgb(7, 6, 6);
+    text-align: center;
+}
+
+.buto{
+flex-direction: column;
+padding: 20px 60px;
+    box-shadow: rgba(9, 30, 66, 0.25) 0px 1px 1px, rgba(9, 30, 66, 0.13) 0px 0px 1px 1px;
+
+
+}
+
+.content-separation{
+    display: flex;
+    justify-content: space-between;
+
+}
+    
+li {
+    list-style: none;
+    padding: 6px;
+}
+
+
+/* CSS */
+button {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  letter-spacing: 2px;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #000;
+  cursor: pointer;
+  border: 3px solid;
+  padding: 0.25em 0.5em;
+  box-shadow: 1px 1px 0px 0px, 2px 2px 0px 0px, 3px 3px 0px 0px, 4px 4px 0px 0px, 5px 5px 0px 0px;
+  position: relative;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  justify-content: space-between;
+}
+
+button:active {
+  box-shadow: 0px 0px 0px 0px;
+  top: 5px;
+  left: 5px;
+}
+
+#buto{
+  display: flex;
+  flex-direction: column;
+  
+}
+
+#buto button{
+margin: 10px 60px;
+
+
+}
+
+.nono{
+  padding-left: 0px;
+}
+
