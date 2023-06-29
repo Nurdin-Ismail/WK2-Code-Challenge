@@ -1,5 +1,5 @@
 
-    fetch('https://github.com/Nurdin-Ismail/WK2-Code-Challenge/blob/main/db.json')
+    fetch('http://localhost:3000/characters')
     .then(res => res.json())
     .then((data) => {
      
